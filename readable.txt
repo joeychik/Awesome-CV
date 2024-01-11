@@ -1,0 +1,42 @@
+FutureVault
+Software Developer
+Toronto, ON
+09/2023-12/2023
+Proposed and implemented a system for the creation and provisioning of sets of bookmarks tailored for specific user groups using React.js, Spring Boot, and MongoDB, optimizing user workflows and information access
+Spearheaded the design and deployment of a favicon scraper, enhancing the visual representation of the in-app bookmarks tab
+Created a drag and drop form UI in React.js for bookmark template creation
+
+Radar
+Software Engineer
+New York, NY
+01/2023-04/2023
+Led mobile SDK work in Android, iOS, and React Native for tracking conversions, clearly demonstrating return on investment for customers while providing important leverage for renegotiating partnerships.
+Spearheaded project to add hours of operation to geofences, designing intuitive frontend components and introducing robust modifications to critical business logic.
+Created developer productivity tools for an internal React Native testing app to coordinate complex builds involving several codebases, reducing iteration time by 80%.
+
+theScore
+Android Mobile Developer
+Toronto, ON
+01/2022-04/2022
+Redesigned app widget to address user feedback and maintain functionality across different device types.
+Constructed queries for GraphQL as part of a transition away from REST, adding support for live updates with subscriptions.
+Worked with product team to implement and coordinate UI changes across Android and iOS platforms.
+Maintained low technical debt by writing thorough unit tests.
+
+Ford Motor Company
+Android Infotainment Projection Software Developer
+Waterloo, ON
+05/2021-08/2021
+Developed Apple CarPlay application for Android Automotive OS in‐vehicle infotainment system.
+Implemented media playback for iPhone over wireless CarPlay, as well as exposing media control API using standard Android MediaBrowserService interface.
+Designed responsive landing page for Apple CarPlay app.
+
+BlackBerry
+Android Software Development Intern
+Waterloo, ON
+01/2020-04/2020
+Implemented MS Exchange functionality in Blackberry Hub Inbox, Services, Calendar, Contacts, Notes, and Tasks apps, each with more than 1 million downloads on Google Play.
+Added security checks for user account creation, improving resilience against brute force password cracking.
+Diagnosed and resolved bugs for improved user experience and security.
+
+GPA:    79.69   3.27/4
